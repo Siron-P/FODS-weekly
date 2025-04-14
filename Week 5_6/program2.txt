@@ -1,0 +1,9 @@
+Python is a popular programming language created by
+Guido van Rossum and released in 1991. It is known for 
+its simplicity and versatility, making it suitable for 
+various applications such as web development, data science, 
+and machine learning. Python supports frameworks like Django 
+and Flask for web development, and libraries like Pandas, 
+NumPy, and Matplotlib for data analysis and visualization. 
+Additionally, Python is easy to learn for beginners, and many 
+distributions include it by default.

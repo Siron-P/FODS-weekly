@@ -1,0 +1,4 @@
+apple mango banana kiwi apple
+kiwi mango apple kiwi mango
+apple mango kiwi apple kiwi
+banana apple kiwi apple watermelon
